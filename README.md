@@ -1,5 +1,4 @@
 # Dice-Roll-Game-
-Here’s a description you can use for a dice roll game repository:
 
 # 🎲 Dice Roll Game
 
